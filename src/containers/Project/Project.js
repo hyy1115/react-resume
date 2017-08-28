@@ -6,6 +6,7 @@ import Card from 'components/Commons/Card'
 const content = [{
     title: 'react技术栈开源项目',
     content: `地址：<a href="https://github.com/hyy1115/react-redux-webpack3" target="_blank">https://github.com/hyy1115/react-redux-webpack3</a>
+    <p>本项目长期维护更新，同时会修复开发者反馈的各种bug，我从react的开源中获得了技术，也乐于分享自己的开源项目。</p>
     <p>提供了中文文档、redux、 react15.6、 webpack3.5、 ES6/7/8、 LESS、 Router4、axios、async/await、import()懒加载、proxy、路由动画等功能。 </p>`
 }, {
     title: 'vue技术栈开源项目',
@@ -14,7 +15,7 @@ const content = [{
 }, {
     title: '深入学习ES6学习笔记',
     content: `地址：<a href="https://github.com/hyy1115/ES6-learning" target="_blank">https://github.com/hyy1115/ES6-learning</a>
-    <p>本人阅读深入理解ES6的教程之后汇总的学习心得，开源分享给前端爱好者。</p>`
+    <p>本人阅读深入理解ES6的教程之后汇总的学习心得，开源分享给前端爱好者。该系列文章得到了前端圈负责人和书籍翻译者（振涛先生）的支持，在前端圈公众号发布。</p>`
 }, {
     title: 'react-echarts3开源项目',
     content: `地址：<a href="https://github.com/hyy1115/react-echarts-modules" target="_blank">https://github.com/hyy1115/react-echarts-modules</a>

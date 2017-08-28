@@ -59,7 +59,7 @@ export default class App extends React.Component {
                         <div className="clearfix">
                             <div className="left">
                                 <Nav
-                                    title="二月 深圳"
+                                    title="二月 🚀深圳"
                                     avatar={avatar}
                                     navList={navList}
                                     routeKey={routeKey}
