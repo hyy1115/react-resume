@@ -49,7 +49,7 @@ const navList = [
     state => {return {...state.global}},
     dispatch => bindActionCreators({...global}, dispatch)
 )
-export default class App extends React.Component {
+export default class App extends React.PureComponent {
     render() {
         const { routeKey, setRouteKey } = this.props
         return (

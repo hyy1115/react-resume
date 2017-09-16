@@ -9,7 +9,6 @@ const Card = (props) => {
     return (
         <div className="card">
             <p className="title">
-                <img src={require('./files/icon.png')} alt=""/>
                 <span>{title}</span>
             </p>
             <div className="content">
